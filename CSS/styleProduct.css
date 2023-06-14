@@ -1,0 +1,41 @@
+
+.outstanding{
+
+    font-weight: bold;
+    font-style: italic;
+    color: rgb(96, 143, 237);
+    margin: 30px 0px 15px 20px;
+
+}
+
+.productIndex {
+
+    width: 18rem;
+    height: 35rem;
+    padding: 20px;
+    margin: 30px 30px 0px 0px;
+    border-radius: 5%;
+    box-shadow: 0.5px 0.5px 3px 2px rgb(96, 143, 237);
+
+}
+
+.product{
+
+    width: 18rem;
+    height: 43rem;
+    padding: 20px;
+    margin: 30px 30px 0px 0px;
+    border-radius: 5%;
+    box-shadow: 0.5px 0.5px 3px 2px rgb(96, 143, 237);
+ 
+}
+
+.productImg {
+
+    height: 18rem;
+    width: 16rem;
+    border-radius: 15%;
+    box-shadow: 0.5px 0.5px 3px 2px rgb(96, 179, 237);
+}
+
+

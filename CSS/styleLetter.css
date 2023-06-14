@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;500&display=swap');
+/* 'Quicksand', sans-serif;*/
+@import url('https://fonts.googleapis.com/css2?family=Delicious+Handrawn&family=Indie+Flower&family=Patrick+Hand&display=swap');
+/* 'Patrick Hand', cursive;*/
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Permanent+Marker&family=Quicksand:wght@300;500&display=swap');
+/* 'Bree Serif', serif;*/
+
+.letterTitle {
+    color: rgb(96, 143, 237);
+    font-family: 'Patrick Hand';
+    font-size: 27px;
+}
+
+.letterText {
+    font-size: 14px;
+    font-family: 'Quicksand', sans-serif;
+
+}
+
+#price {
+    font-family: 'Bree Serif', serif;;
+}
+
+#letter-table{
+    color: rgb(96, 143, 237);
+}
